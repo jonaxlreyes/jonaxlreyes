@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Helpdesk Projects:</h2>
 
 - <b>Helpdesk LAb</b>
-  - [Installing VirtualBox and Server 2016](https://github.com/jonaxlreyes/LABURL)
+  - [Installing VirtualBox and Server 2016](https://github.com/jonaxlreyes/Virtualbox-Server2016)
 
 
 <h2> 🤳 Connect with me:</h2>
