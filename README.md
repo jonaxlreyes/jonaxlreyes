@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Helpdesk Projects:</h2>
 
-- <b>Helpdesk LAb</b>
+- <b>Helpdesk LAB</b>
   - [Installing VirtualBox and Server 2016](https://github.com/jonaxlreyes/Virtualbox-Server2016)
 
 
