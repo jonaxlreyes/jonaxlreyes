@@ -1,8 +1,14 @@
 <h1>Hi, I'm Jon Axl Reyes </h1>
 
-<h2>👨‍💻 IT Helpdesk Projects:</h2>
+<h2>👨‍💻 IT Helpdesk Home Lab:</h2>
 
-- <b>Helpdesk LAB</b>
+<h2>Project Description:</h2>
+
+
+I am building an IT helpdesk home lab to practice and improve my technical skills in troubleshooting, system administration, and network management. This lab will simulate real-world IT support environments, allowing hands-on experience with hardware, software, operating systems, virtualization, and networking. The setup includes various tools and technologies used in IT helpdesks, such as remote desktop support, ticketing systems, and system diagnostics. This project will help me prepare for IT certifications like CompTIA A+ and gain practical skills for a career in IT support.
+<br />
+
+- <b>Helpdesk Home Lab</b>
   - [Installing VirtualBox and Server 2016](https://github.com/jonaxlreyes/Virtualbox-Server2016)
 
 
