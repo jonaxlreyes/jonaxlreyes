@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Jon Axl Reyes </h1>
+
+<h2>👨‍💻 IT Helpdesk Projects:</h2>
+
+- <b>Helpdesk LAb</b>
+  - [Installing VirtualBox and Server 2016](https://github.com/jonaxlreyes/LABURL)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/jon-axl-reyes-482b42352/
 
 <!--
-**jonaxlreyes/jonaxlreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
