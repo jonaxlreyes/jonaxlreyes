@@ -13,6 +13,7 @@ I am building an IT helpdesk home lab to practice and improve my technical skill
   - [Installing Active Directory](https://github.com/jonaxlreyes/Installing-Active-Directory)
   - [Active Directory Account Creation](https://github.com/jonaxlreyes/Active-Directory-Account-Creation)
   - [Installing Windows 10, Joining the Domain, and Configuring RSAT Tools](https://github.com/jonaxlreyes/Windows-10-Join-PC-To-domain-RSAT-tools)
+  - [Configuring Group Policy](https://github.com/jonaxlreyes/Windows-10-Join-PC-To-domain-RSAT-tools)
 
 
 <h2> 🤳 Connect with me:</h2>
