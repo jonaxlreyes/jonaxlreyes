@@ -10,6 +10,7 @@ I am building an IT helpdesk home lab to practice and improve my technical skill
 
 - <b>Helpdesk Home Lab</b>
   - [Installing VirtualBox and Server 2016](https://github.com/jonaxlreyes/Virtualbox-Server2016)
+  - [Installing Active Directory](https://github.com/jonaxlreyes/Installing-Active-Directory)
 
 
 <h2> 🤳 Connect with me:</h2>
