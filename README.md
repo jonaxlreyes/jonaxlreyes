@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jon Axl Reyes </h1>
 
-<h2>👨‍💻 IT Helpdesk Home Lab:</h2>
+<h2> IT Helpdesk Home Lab:</h2>
 
 <h2>Project Description:</h2>
 
@@ -20,7 +20,7 @@ I am building an IT helpdesk home lab to practice and improve my technical skill
   - [Map Network Drives/Security Groups/Permissions](https://github.com/jonaxlreyes/Map-Network-Drives)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
