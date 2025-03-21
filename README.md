@@ -17,6 +17,7 @@ I am building an IT helpdesk home lab to practice and improve my technical skill
   - [Unlock a User Account in Active Directory](https://github.com/jonaxlreyes/Unlock-a-User-Account-in-Active-Directory)
   - [Unlock a User Account in PowerShell](https://github.com/jonaxlreyes/Unlock-a-User-Account-in-PowerShell)
   - [Automating User Account Unlocking in Active Directory with PowerShell](https://github.com/jonaxlreyes/Automating-User-Account-Unlocking-in-Active-Directory-with-PowerShell)
+  - [Map Network Drives/Security Groups/Permissions](https://github.com/jonaxlreyes/Map-Network-Drives)
 
 
 <h2> 🤳 Connect with me:</h2>
